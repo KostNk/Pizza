@@ -1,0 +1,15 @@
+/Users/no1/Igor/20241115/Pizzeria/Pizzeria/bin/Debug/net8.0/Pizzeria
+/Users/no1/Igor/20241115/Pizzeria/Pizzeria/bin/Debug/net8.0/Pizzeria.deps.json
+/Users/no1/Igor/20241115/Pizzeria/Pizzeria/bin/Debug/net8.0/Pizzeria.runtimeconfig.json
+/Users/no1/Igor/20241115/Pizzeria/Pizzeria/bin/Debug/net8.0/Pizzeria.dll
+/Users/no1/Igor/20241115/Pizzeria/Pizzeria/bin/Debug/net8.0/Pizzeria.pdb
+/Users/no1/Igor/20241115/Pizzeria/Pizzeria/obj/Debug/net8.0/Pizzeria.GeneratedMSBuildEditorConfig.editorconfig
+/Users/no1/Igor/20241115/Pizzeria/Pizzeria/obj/Debug/net8.0/Pizzeria.AssemblyInfoInputs.cache
+/Users/no1/Igor/20241115/Pizzeria/Pizzeria/obj/Debug/net8.0/Pizzeria.AssemblyInfo.cs
+/Users/no1/Igor/20241115/Pizzeria/Pizzeria/obj/Debug/net8.0/Pizzeria.csproj.CoreCompileInputs.cache
+/Users/no1/Igor/20241115/Pizzeria/Pizzeria/obj/Debug/net8.0/Pizzeria.sourcelink.json
+/Users/no1/Igor/20241115/Pizzeria/Pizzeria/obj/Debug/net8.0/Pizzeria.dll
+/Users/no1/Igor/20241115/Pizzeria/Pizzeria/obj/Debug/net8.0/refint/Pizzeria.dll
+/Users/no1/Igor/20241115/Pizzeria/Pizzeria/obj/Debug/net8.0/Pizzeria.pdb
+/Users/no1/Igor/20241115/Pizzeria/Pizzeria/obj/Debug/net8.0/Pizzeria.genruntimeconfig.cache
+/Users/no1/Igor/20241115/Pizzeria/Pizzeria/obj/Debug/net8.0/ref/Pizzeria.dll
